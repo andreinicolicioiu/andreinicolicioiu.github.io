@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/authors/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 13:30:00 +0300</lastBuildDate>
+    <image>
+      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://andreinicolicioiu.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</guid>
+      <description>&lt;p&gt;My focus is on deep learning methods for Computer Vision problems. I studied at University Politehnica of Bucharest, where I obtained a Bachelor&amp;rsquo;s degree and a Master&amp;rsquo;s degree in Artificial Inteligence. I began with studying some lower-mid level computer vision problems like occlusions regions segmentation and then I leaned over some higher level tasks, like multi-label classification in video, captioning in video, finding common representations between video and language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iulia Duta</title>
+      <link>https://andreinicolicioiu.github.io/authors/iulia-duta/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/iulia-duta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marius Leordeanu</title>
+      <link>https://andreinicolicioiu.github.io/authors/marius-leordeanu/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/marius-leordeanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simion-Vlad Bogolin</title>
+      <link>https://andreinicolicioiu.github.io/authors/simion-vlad-bogolin/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/simion-vlad-bogolin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master&#39;s Thesis - UPB. Advised by Prof. Marius Leordeanu</title>
+      <link>https://andreinicolicioiu.github.io/authors/masters-thesis-upb.-advised-by-prof.-marius-leordeanu/</link>
+      <pubDate>Thu, 28 Jun 2018 22:58:54 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/masters-thesis-upb.-advised-by-prof.-marius-leordeanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bachelor&#39;s Thesis - UPB. Advised by Prof. Marius Leordeanu</title>
+      <link>https://andreinicolicioiu.github.io/authors/bachelors-thesis-upb.-advised-by-prof.-marius-leordeanu/</link>
+      <pubDate>Wed, 01 Jun 2016 23:07:34 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/authors/bachelors-thesis-upb.-advised-by-prof.-marius-leordeanu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

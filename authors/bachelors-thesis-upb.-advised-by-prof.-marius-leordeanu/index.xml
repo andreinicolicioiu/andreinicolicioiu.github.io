@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bachelor&#39;s Thesis - UPB. Advised by Prof. Marius Leordeanu | Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/authors/bachelors-thesis-upb.-advised-by-prof.-marius-leordeanu/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/authors/bachelors-thesis-upb.-advised-by-prof.-marius-leordeanu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bachelor&#39;s Thesis - UPB. Advised by Prof. Marius Leordeanu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 23:07:34 +0200</lastBuildDate>
+    <image>
+      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <title>Bachelor&#39;s Thesis - UPB. Advised by Prof. Marius Leordeanu</title>
+      <link>https://andreinicolicioiu.github.io/authors/bachelors-thesis-upb.-advised-by-prof.-marius-leordeanu/</link>
+    </image>
+    
+    <item>
+      <title>Deep Occlusion Region Detection in Video</title>
+      <link>https://andreinicolicioiu.github.io/project/occlusions/</link>
+      <pubDate>Wed, 01 Jun 2016 23:07:34 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/project/occlusions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

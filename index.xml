@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei Nicolicioiu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 16:11:09 +0300</lastBuildDate>
+    <image>
+      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <title>Andrei Nicolicioiu</title>
+      <link>https://andreinicolicioiu.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://andreinicolicioiu.github.io/talk/</link>
+      <pubDate>Wed, 11 Sep 2019 16:11:09 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://andreinicolicioiu.github.io/publication/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://andreinicolicioiu.github.io/project/</link>
+      <pubDate>Thu, 28 Jun 2018 22:58:54 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andreinicolicioiu.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/post/</guid>
+      <description>
+
+&lt;p&gt;title: Posts&lt;/p&gt;
+
+&lt;h1 id=&#34;view&#34;&gt;View.&lt;/h1&gt;
+
+&lt;h1 id=&#34;1-list&#34;&gt;1 = List&lt;/h1&gt;
+
+&lt;h1 id=&#34;2-compact&#34;&gt;2 = Compact&lt;/h1&gt;
+
+&lt;h1 id=&#34;3-card&#34;&gt;3 = Card&lt;/h1&gt;
+
+&lt;p&gt;view: 2&lt;/p&gt;
+
+&lt;h1 id=&#34;optional-header-image-relative-to-static-img-folder&#34;&gt;Optional header image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
+
+&lt;p&gt;header:
+  caption: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;image&#34;&gt;image: &amp;ldquo;&amp;rdquo;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iulia Duta | Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/authors/iulia-duta/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/authors/iulia-duta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iulia Duta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 13:30:00 +0300</lastBuildDate>
+    <image>
+      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <title>Iulia Duta</title>
+      <link>https://andreinicolicioiu.github.io/authors/iulia-duta/</link>
+    </image>
+    
+    <item>
+      <title>Recurrent Space Time Graph Neural Networks</title>
+      <link>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining for Meaning: From Vision to Language Through Multiple Network Consensus</title>
+      <link>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-label classification in video</title>
+      <link>https://andreinicolicioiu.github.io/project/multilabel/</link>
+      <pubDate>Sat, 01 Jul 2017 23:07:29 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/project/multilabel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
