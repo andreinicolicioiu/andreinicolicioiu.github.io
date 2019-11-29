@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Andrei Nicolicioiu</title>
-    <link>https://andreinicolicioiu.github.io/project/</link>
-      <atom:link href="https://andreinicolicioiu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrei.nicolicioiu.github.io/project/</link>
+      <atom:link href="https://andrei.nicolicioiu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 22:58:54 +0200</lastBuildDate>
     <image>
-      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://andreinicolicioiu.github.io/project/</link>
+      <link>https://andrei.nicolicioiu.github.io/project/</link>
     </image>
     
     <item>
       <title>Describing videos in natural language</title>
-      <link>https://andreinicolicioiu.github.io/project/captioning/</link>
+      <link>https://andrei.nicolicioiu.github.io/project/captioning/</link>
       <pubDate>Thu, 28 Jun 2018 22:58:54 +0200</pubDate>
-      <guid>https://andreinicolicioiu.github.io/project/captioning/</guid>
+      <guid>https://andrei.nicolicioiu.github.io/project/captioning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-label classification in video</title>
-      <link>https://andreinicolicioiu.github.io/project/multilabel/</link>
+      <link>https://andrei.nicolicioiu.github.io/project/multilabel/</link>
       <pubDate>Sat, 01 Jul 2017 23:07:29 +0200</pubDate>
-      <guid>https://andreinicolicioiu.github.io/project/multilabel/</guid>
+      <guid>https://andrei.nicolicioiu.github.io/project/multilabel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Occlusion Region Detection in Video</title>
-      <link>https://andreinicolicioiu.github.io/project/occlusions/</link>
+      <link>https://andrei.nicolicioiu.github.io/project/occlusions/</link>
       <pubDate>Wed, 01 Jun 2016 23:07:34 +0200</pubDate>
-      <guid>https://andreinicolicioiu.github.io/project/occlusions/</guid>
+      <guid>https://andrei.nicolicioiu.github.io/project/occlusions/</guid>
       <description></description>
     </item>
     

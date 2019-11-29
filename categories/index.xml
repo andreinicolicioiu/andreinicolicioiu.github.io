@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Andrei Nicolicioiu</title>
-    <link>https://andreinicolicioiu.github.io/categories/</link>
-      <atom:link href="https://andreinicolicioiu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrei.nicolicioiu.github.io/categories/</link>
+      <atom:link href="https://andrei.nicolicioiu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://andreinicolicioiu.github.io/img/icon-192.png</url>
+      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://andreinicolicioiu.github.io/categories/</link>
+      <link>https://andrei.nicolicioiu.github.io/categories/</link>
     </image>
     
   </channel>
