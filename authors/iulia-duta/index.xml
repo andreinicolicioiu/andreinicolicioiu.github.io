@@ -5,12 +5,20 @@
     <link>https://andrei.nicolicioiu.github.io/authors/iulia-duta/</link>
       <atom:link href="https://andrei.nicolicioiu.github.io/authors/iulia-duta/index.xml" rel="self" type="application/rss+xml" />
     <description>Iulia Duta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 13:30:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
     <image>
       <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Iulia Duta</title>
       <link>https://andrei.nicolicioiu.github.io/authors/iulia-duta/</link>
     </image>
+    
+    <item>
+      <title>Effective Receptive Field of Graph Neural Networks</title>
+      <link>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</link>
+      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <guid>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recurrent Space Time Graph Neural Networks</title>

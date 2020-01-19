@@ -5,7 +5,7 @@
     <link>https://andrei.nicolicioiu.github.io/</link>
       <atom:link href="https://andrei.nicolicioiu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrei Nicolicioiu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 16:11:09 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
     <image>
       <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Andrei Nicolicioiu</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://andrei.nicolicioiu.github.io/talk/</link>
-      <pubDate>Wed, 11 Sep 2019 16:11:09 +0300</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/talk/</guid>
+      <title>Publications</title>
+      <link>https://andrei.nicolicioiu.github.io/publication/</link>
+      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <guid>https://andrei.nicolicioiu.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/</link>
-      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/publication/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://andrei.nicolicioiu.github.io/talk/</link>
+      <pubDate>Wed, 11 Sep 2019 16:11:09 +0300</pubDate>
+      <guid>https://andrei.nicolicioiu.github.io/talk/</guid>
       <description></description>
     </item>
     

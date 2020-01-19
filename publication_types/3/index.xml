@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Andrei Nicolicioiu</title>
+    <link>https://andrei.nicolicioiu.github.io/publication_types/3/</link>
+      <atom:link href="https://andrei.nicolicioiu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
+    <image>
+      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://andrei.nicolicioiu.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Effective Receptive Field of Graph Neural Networks</title>
+      <link>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</link>
+      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <guid>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
