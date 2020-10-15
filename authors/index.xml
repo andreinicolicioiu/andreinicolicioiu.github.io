@@ -5,7 +5,7 @@
     <link>https://andrei.nicolicioiu.github.io/authors/</link>
       <atom:link href="https://andrei.nicolicioiu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
     <image>
       <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,9 +15,9 @@
     <item>
       <title></title>
       <link>https://andrei.nicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
-      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
       <guid>https://andrei.nicolicioiu.github.io/authors/andrei-nicolicioiu/</guid>
-      <description>&lt;p&gt;I am interested in deep learning methods with a focus on relational representations and graph neural networds. I studied at University Politehnica of Bucharest, where I obtained a Bachelor&#39;s degree and a Master&#39;s degree in Artificial Inteligence. I researched topics in multilabel classification, video captioning, occluded regions segmentation, few-shot learning.&lt;/p&gt;
+      <description>&lt;p&gt;I am interested in deep learning methods with a focus on relational representations and graph neural networds. I studied at University Politehnica of Bucharest, where I obtained a Bachelor&amp;rsquo;s degree and a Master&amp;rsquo;s degree in Artificial Inteligence. I researched topics in multilabel classification, video captioning, occluded regions segmentation, few-shot learning.&lt;/p&gt;
 &lt;p&gt;Recently I have been researching &lt;strong&gt;graph neural networks&lt;/strong&gt; and particularly how to design methods that take advantage of the relations in the video data and process them in a structured way and how to describe the long range connections of such methods.&lt;/p&gt;
 &lt;p&gt;You can check out my &lt;a href=&#34;files/cv.pdf&#34;&gt;CV&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -26,7 +26,7 @@
     <item>
       <title>Iulia Duta</title>
       <link>https://andrei.nicolicioiu.github.io/authors/iulia-duta/</link>
-      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
       <guid>https://andrei.nicolicioiu.github.io/authors/iulia-duta/</guid>
       <description></description>
     </item>

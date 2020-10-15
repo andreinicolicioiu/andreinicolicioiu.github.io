@@ -5,7 +5,7 @@
     <link>https://andrei.nicolicioiu.github.io/</link>
       <atom:link href="https://andrei.nicolicioiu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrei Nicolicioiu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
     <image>
       <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>Andrei Nicolicioiu</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://andrei.nicolicioiu.github.io/publication/</link>
-      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
       <guid>https://andrei.nicolicioiu.github.io/publication/</guid>
       <description></description>
     </item>
@@ -49,8 +49,8 @@
 &lt;p&gt;view: 2&lt;/p&gt;
 &lt;h1 id=&#34;optional-header-image-relative-to-staticimg-folder&#34;&gt;Optional header image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
 &lt;h2 id=&#34;image-&#34;&gt;header:
-caption: &amp;quot;&amp;rdquo;
-image: &amp;quot;&amp;rdquo;&lt;/h2&gt;
+caption: &amp;quot;&amp;quot;
+image: &amp;quot;&amp;quot;&lt;/h2&gt;
 </description>
     </item>
     

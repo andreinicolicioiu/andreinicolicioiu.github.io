@@ -5,12 +5,20 @@
     <link>https://andrei.nicolicioiu.github.io/publication_types/3/</link>
       <atom:link href="https://andrei.nicolicioiu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 23:39:32 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
     <image>
       <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://andrei.nicolicioiu.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Dynamic Regions Graph Neural Networks for Spatio-Temporal Reasoning</title>
+      <link>https://andrei.nicolicioiu.github.io/publication/dynamic_regions_gnns/</link>
+      <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
+      <guid>https://andrei.nicolicioiu.github.io/publication/dynamic_regions_gnns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effective Receptive Field of Graph Neural Networks</title>
