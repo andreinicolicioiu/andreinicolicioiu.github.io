@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Andrei Nicolicioiu</title>
-    <link>https://andrei.nicolicioiu.github.io/talk/</link>
-      <atom:link href="https://andrei.nicolicioiu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andreinicolicioiu.github.io/talk/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 16:11:09 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 16:11:09 +0300</lastBuildDate>
     <image>
-      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
+      <url>https://andreinicolicioiu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://andrei.nicolicioiu.github.io/talk/</link>
+      <link>https://andreinicolicioiu.github.io/talk/</link>
     </image>
     
     <item>
       <title>Graphs Meetup</title>
-      <link>https://andrei.nicolicioiu.github.io/talk/graphs-meetup/</link>
+      <link>https://andreinicolicioiu.github.io/talk/graphs-meetup/</link>
       <pubDate>Wed, 11 Sep 2019 16:11:09 +0300</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/talk/graphs-meetup/</guid>
+      <guid>https://andreinicolicioiu.github.io/talk/graphs-meetup/</guid>
       <description></description>
     </item>
     

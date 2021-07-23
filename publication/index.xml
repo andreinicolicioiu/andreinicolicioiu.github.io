@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Andrei Nicolicioiu</title>
-    <link>https://andrei.nicolicioiu.github.io/publication/</link>
-      <atom:link href="https://andrei.nicolicioiu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andreinicolicioiu.github.io/publication/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
     <image>
-      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
+      <url>https://andreinicolicioiu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/</link>
+      <link>https://andreinicolicioiu.github.io/publication/</link>
     </image>
     
     <item>
       <title>Dynamic Regions Graph Neural Networks for Spatio-Temporal Reasoning</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/dynamic_regions_gnns/</link>
+      <link>https://andreinicolicioiu.github.io/publication/dynamic_regions_gnns/</link>
       <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/publication/dynamic_regions_gnns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effective Receptive Field of Graph Neural Networks</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</link>
-      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/publication/graphs_erf/</guid>
+      <guid>https://andreinicolicioiu.github.io/publication/dynamic_regions_gnns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recurrent Space Time Graph Neural Networks</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</link>
+      <link>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</link>
       <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</guid>
+      <guid>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining for Meaning: From Vision to Language Through Multiple Network Consensus</title>
-      <link>https://andrei.nicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</link>
+      <link>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</guid>
+      <guid>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</guid>
       <description></description>
     </item>
     

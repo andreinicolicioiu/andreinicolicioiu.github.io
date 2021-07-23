@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrei Nicolicioiu</title>
-    <link>https://andrei.nicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
-      <atom:link href="https://andrei.nicolicioiu.github.io/authors/andrei-nicolicioiu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andrei Nicolicioiu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 23:07:29 +0200</lastBuildDate>
+    <title>Andrei Liviu Nicolicioiu | Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei Liviu Nicolicioiu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
     <image>
-      <url>https://andrei.nicolicioiu.github.io/img/icon-192.png</url>
-      <title>Andrei Nicolicioiu</title>
-      <link>https://andrei.nicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
+      <url>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/avatar_hu8979a0d3b8b4c36f612a3c25d0218d46_222638_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Andrei Liviu Nicolicioiu</title>
+      <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
     </image>
     
     <item>
+      <title>Dynamic Regions Graph Neural Networks for Spatio-Temporal Reasoning</title>
+      <link>https://andreinicolicioiu.github.io/publication/dynamic_regions_gnns/</link>
+      <pubDate>Thu, 17 Sep 2020 17:35:06 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/dynamic_regions_gnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few shot learning by features adaptation with Graph Neural Networks</title>
+      <link>https://andreinicolicioiu.github.io/report/few_shot_graphs/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/report/few_shot_graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Receptive Field of Graph Neural Networks</title>
+      <link>https://andreinicolicioiu.github.io/report/graphs_erf/</link>
+      <pubDate>Sat, 18 Jan 2020 23:39:32 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/report/graphs_erf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Space Time Graph Neural Networks</title>
+      <link>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</link>
+      <pubDate>Wed, 11 Sep 2019 13:30:00 +0300</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/recurrent-space-time-graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining for Meaning: From Vision to Language Through Multiple Network Consensus</title>
+      <link>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/mining-for-meaning-from-vision-to-language-through-multiple-network-consensus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-label classification in video</title>
-      <link>https://andrei.nicolicioiu.github.io/project/multilabel/</link>
+      <link>https://andreinicolicioiu.github.io/project/multilabel/</link>
       <pubDate>Sat, 01 Jul 2017 23:07:29 +0200</pubDate>
-      <guid>https://andrei.nicolicioiu.github.io/project/multilabel/</guid>
+      <guid>https://andreinicolicioiu.github.io/project/multilabel/</guid>
       <description></description>
     </item>
     

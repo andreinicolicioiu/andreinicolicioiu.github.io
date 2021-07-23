@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://andreinicolicioiu.github.io/sitemap.xml
