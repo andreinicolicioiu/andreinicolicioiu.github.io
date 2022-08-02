@@ -5,12 +5,20 @@
     <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
       <atom:link href="https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrei Liviu Nicolicioiu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 17:35:06 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 18:53:12 +0200</lastBuildDate>
     <image>
       <url>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/avatar_hu8979a0d3b8b4c36f612a3c25d0218d46_222638_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Andrei Liviu Nicolicioiu</title>
       <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
     </image>
+    
+    <item>
+      <title>On the DCI Framework for Evaluating Disentangled Representations: Extensions and Connections to Identifiability</title>
+      <link>https://andreinicolicioiu.github.io/publication/dci_extent/</link>
+      <pubDate>Tue, 02 Aug 2022 18:53:12 +0200</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/dci_extent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering Dynamic Salient Regions with Spatio-Temporal Graph Neural Networks</title>
