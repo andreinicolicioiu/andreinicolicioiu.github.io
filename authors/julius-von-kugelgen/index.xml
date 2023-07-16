@@ -5,12 +5,20 @@
     <link>https://andreinicolicioiu.github.io/authors/julius-von-kugelgen/</link>
       <atom:link href="https://andreinicolicioiu.github.io/authors/julius-von-kugelgen/index.xml" rel="self" type="application/rss+xml" />
     <description>Julius Von Kügelgen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 18:53:12 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreinicolicioiu.github.io/media/icon_huf94fff298857b8a1d148cfc0fdf818d4_383532_512x512_fill_lanczos_center_3.png</url>
       <title>Julius Von Kügelgen</title>
       <link>https://andreinicolicioiu.github.io/authors/julius-von-kugelgen/</link>
     </image>
+    
+    <item>
+      <title>Spuriosity Didn&#39;t Kill the Classifier: Using Invariant Predictions to Harness Spurious Features</title>
+      <link>https://andreinicolicioiu.github.io/publication/spuriosity/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/spuriosity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability</title>

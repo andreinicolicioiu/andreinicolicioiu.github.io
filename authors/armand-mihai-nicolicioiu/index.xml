@@ -5,12 +5,20 @@
     <link>https://andreinicolicioiu.github.io/authors/armand-mihai-nicolicioiu/</link>
       <atom:link href="https://andreinicolicioiu.github.io/authors/armand-mihai-nicolicioiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Armand Mihai Nicolicioiu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreinicolicioiu.github.io/media/icon_huf94fff298857b8a1d148cfc0fdf818d4_383532_512x512_fill_lanczos_center_3.png</url>
       <title>Armand Mihai Nicolicioiu</title>
       <link>https://andreinicolicioiu.github.io/authors/armand-mihai-nicolicioiu/</link>
     </image>
+    
+    <item>
+      <title>Learning Diverse Features in Vision Transformers for Improved Generalization</title>
+      <link>https://andreinicolicioiu.github.io/publication/diverse_vit/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/diverse_vit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Few shot learning by features adaptation with Graph Neural Networks</title>

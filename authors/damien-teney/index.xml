@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damien Teney | Andrei Nicolicioiu</title>
+    <link>https://andreinicolicioiu.github.io/authors/damien-teney/</link>
+      <atom:link href="https://andreinicolicioiu.github.io/authors/damien-teney/index.xml" rel="self" type="application/rss+xml" />
+    <description>Damien Teney</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreinicolicioiu.github.io/media/icon_huf94fff298857b8a1d148cfc0fdf818d4_383532_512x512_fill_lanczos_center_3.png</url>
+      <title>Damien Teney</title>
+      <link>https://andreinicolicioiu.github.io/authors/damien-teney/</link>
+    </image>
+    
+    <item>
+      <title>Learning Diverse Features in Vision Transformers for Improved Generalization</title>
+      <link>https://andreinicolicioiu.github.io/publication/diverse_vit/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/diverse_vit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

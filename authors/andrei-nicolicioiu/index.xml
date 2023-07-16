@@ -5,12 +5,36 @@
     <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
       <atom:link href="https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrei Liviu Nicolicioiu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 18:53:12 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/avatar_hu8979a0d3b8b4c36f612a3c25d0218d46_222638_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Andrei Liviu Nicolicioiu</title>
       <link>https://andreinicolicioiu.github.io/authors/andrei-nicolicioiu/</link>
     </image>
+    
+    <item>
+      <title>Do as your neighbors: Invariant learning through non-parametric neighbourhood matching</title>
+      <link>https://andreinicolicioiu.github.io/publication/iknn/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/iknn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Diverse Features in Vision Transformers for Improved Generalization</title>
+      <link>https://andreinicolicioiu.github.io/publication/diverse_vit/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/diverse_vit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spuriosity Didn&#39;t Kill the Classifier: Using Invariant Predictions to Harness Spurious Features</title>
+      <link>https://andreinicolicioiu.github.io/publication/spuriosity/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://andreinicolicioiu.github.io/publication/spuriosity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability</title>
